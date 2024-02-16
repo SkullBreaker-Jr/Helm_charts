@@ -1,0 +1,199 @@
+apiVersion: v1
+entries:
+  base:
+  - apiVersion: v1
+    appVersion: 1.21.0-beta.1
+    created: "2024-02-02T21:54:38.255413243Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: f01041c3f4bfcf893f236f6eefbe232069b2661f4c502e1fad828b993d491311
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.21.0-beta.1.tgz
+    version: 1.21.0-beta.1
+  - apiVersion: v1
+    appVersion: 1.21.0-beta.0
+    created: "2024-01-26T01:03:57.946759014Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: b8915e163e6122ecfd3a52b14201705abb162507aed3110aeb2bf3414388accc
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.21.0-beta.0.tgz
+    version: 1.21.0-beta.0
+  - apiVersion: v1
+    appVersion: 1.20.3
+    created: "2024-02-09T15:59:09.881504845Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: 0a3881fad284b7682983da8ecece1e9ce609202c6e82885a0cfc2770b15d73c1
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.20.3.tgz
+    version: 1.20.3
+  - apiVersion: v1
+    appVersion: 1.20.2
+    created: "2024-01-09T14:36:02.593237262Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: 6a8b02c21d2aeb61c264bd20e0966ed92e9110b204ebba621b34127dde4694e2
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.20.2.tgz
+    version: 1.20.2
+  - apiVersion: v1
+    appVersion: 1.20.1
+    created: "2023-12-12T18:04:16.386402766Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: ec9efe0b57f81222ef2583b8191e090b31315ae1e2e1b79df2083fab15576246
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.20.1.tgz
+    version: 1.20.1
+  - apiVersion: v1
+    appVersion: 1.20.0
+    created: "2023-11-14T20:37:14.856198707Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: 90af4d8a38e8037e92475532b9b2397bf890a50d43f2853ac6f0496821e814bf
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.20.0.tgz
+    version: 1.20.0
+  - apiVersion: v1
+    appVersion: 1.20.0-rc.0
+    created: "2023-11-02T06:53:20.806396726Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: 1c8db2567bbcd948505b0dca57517c9b4afc9e00141949a6b4a6522dc743f233
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.20.0-rc.0.tgz
+    version: 1.20.0-rc.0
+  - apiVersion: v1
+    appVersion: 1.20.0-beta.0
+    created: "2023-10-24T08:43:32.396250781Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: 884d3f8cfc44390b6fd664ecc5ffe34a2a49fd2518154d26c0022024248b0537
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.20.0-beta.0.tgz
+    version: 1.20.0-beta.0
+  - apiVersion: v1
+    appVersion: 1.19.7
+    created: "2024-02-09T16:00:13.037129729Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: a52d320eca6256f2c3c373706bb14bd1b79c874915cb13b3da61b5bb5822b852
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.19.7.tgz
+    version: 1.19.7
+  - apiVersion: v1
+    appVersion: 1.19.6
+    created: "2024-01-05T16:33:50.682756442Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: 992865f3055432f530e89ceddffd00ef5e8e6b8b498ca9ccafb3d99b11a3db36
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.19.6.tgz
+    version: 1.19.6
+  - apiVersion: v1
+    appVersion: 1.19.5
+    created: "2023-12-12T18:02:12.25675363Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: 8a75f6f5544134a387634f0990e3710aab1425e255b0569f07aaf3bbcf4c27bd
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.19.5.tgz
+    version: 1.19.5
+  - apiVersion: v1
+    appVersion: 1.19.4
+    created: "2023-11-13T22:42:48.896277858Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: 7c9f9c1b75ccf2e2523a5af2077a8346ff44a2051a30cc2f7a3dec54691f88d1
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.19.4.tgz
+    version: 1.19.4
+  - apiVersion: v1
+    appVersion: 1.19.3
+    created: "2023-10-11T13:33:33.424901929Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: 756bad7f2f22a26113b5d6d35ac863a839080154580a51e42334683080c0b671
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.19.3.tgz
+    version: 1.19.3
+  - apiVersion: v1
+    appVersion: 1.19.2
+    created: "2023-10-10T17:03:27.31038072Z"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: 48cf4d750a1c9d343cbde4a2622c17c52bca71b38dc5cef92911180b53fdcd28
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://istio-release.storage.googleapis.com/charts/base-1.19.2.tgz
+    version: 1.19.2
